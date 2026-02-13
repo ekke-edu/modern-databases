@@ -1,31 +1,31 @@
-# Modern Databases Course
+# Neo4j Alapok – Állatkert Gráf Projekt
+Ez a mappa a Neo4j alapvető Cypher lekérdezési műveleteit (Node & Relationship creation) mutatja be egy egyszerű, állatokat és gazdáikat tartalmazó példán keresztül.
 
-Üdvözöllek a **Korszerű adatbázisok** kurzus hivatalos repository gyűjteményében! Ez az organizáció a félév során elkészített feladatokat, adatmodelleket és lekérdezéseket tartalmazza, különös tekintettel a NoSQL technológiákra.
+## Miről szól ez a labor?
+A példakód (create-animals.cypher) bemutatja, hogyan modellezzük az adatokat egy gráfalapú adatbázisban. A középpontban Pajti (a kutya), Chili (a macska) és az őket összekötő kapcsolatok állnak.
 
-## Technológiai fókusz
+## Bemutatott Gráf koncepciók:
+* Csomópontok (Nodes): Az entitásokat (pl. Ember, Állat) körökként ábrázoljuk, saját címkékkel (:Person, :Animal).
+* Kapcsolatok (Relationships): Az adatok közötti viszony nem egy idegen kulcs, hanem egy irányított él (-[:OWNS]->), amely saját tulajdonságokat is hordozhat (pl. mióta gazdája).
+* Mintázatillesztés: A lekérdezés során nem táblákat kapcsolunk össze, hanem vizuális mintákat keresünk a gráfban (pl. (p:Person)-[r]->(a:Animal)).
 
-A kurzus során az alábbi rendszerek mélyebb megismerésére koncentrálunk:
+## Futtatás folyamata
+1. Előkészületek
+Győződj meg róla, hogy fut a Neo4j DBMS szervered (helyileg a Neo4j Desktopban vagy felhőben).
 
-*   **MongoDB**: Dokumentum-orientált tárolás, aggregációs folyamatok és dinamikus sémakezelés.
-*   **Neo4j**: Gráfalapú adatmodellezés és komplex kapcsolatok lekérdezése Cypher nyelven.
-*   **NoSQL elvek**: CAP tétel, horizontális skálázódás és sémamentes tervezés.
+2. Futtatás Neo4j Browserben
+Nyisd meg a Neo4j Desktop-ot és indítsd el az adatbázist.
+Kattints az Open gombra a böngésző alapú felület megnyitásához.
+Másold be a create-animals.cypher fájl tartalmát a felső parancssorba.
+Nyomj Ctrl + Enter-t vagy kattints a kék Play ikonra.
 
-## Repository-k felépítése
+3. Vizuális ellenőrzés
+A futtatás után a bal oldali sávban kattints az ikonokra, vagy futtasd a MATCH (n) RETURN n parancsot, hogy lásd az elkészült gráfot.
 
-Az organizáció az alábbi bontásban tartalmazza a projekteket:
+## Tesztelési feladatok
+Próbáld ki a következőket a kódban:
+1. Módosítás: Írd át Pajti korát a SET parancs segítségével!
+2. Új kapcsolat: Hozz létre egy Állatorvos csomópontot, és kösd össze Chilivel egy [:VISITED] kapcsolattal!
+3. Lekérdezés: Keress rá az összes olyan gazdira, akinek "kutya" típusú állata van!
 
-| Projekt | Leírás | Technológia |
-| :--- | :--- | :--- |
-| `mongodb-labs` | Aggregációs pipeline-ok és CRUD műveletek | MongoDB (MQL) |
-| `graph-modeling` | Gráf adatbázis tervezés és Cypher lekérdezések | Neo4j |
-| `homework-assignments` | Heti házi feladatok és esettanulmányok | Vegyes |
-| `final-project` | A féléves nagyprojekt dokumentációja és kódja | Node.js / Python |
-
-## Eszközök és környezet
-
-A feladatok futtatásához az alábbiak szükségesek:
-- [MongoDB Compass](https://www.mongodb.com) (GUI)
-- [Neo4j Desktop](https://neo4j.com)
-
----
-*Készült a 2025/26-os tanévben.*
+Ez a modul a [Korszerű Adatbázisok] kurzus keretében készült.
