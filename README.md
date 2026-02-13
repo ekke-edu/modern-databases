@@ -1,31 +1,36 @@
-# Modern Databases Course
+# MongoDB Alapok – Állatkert Projekt
+Ez a mappa a MongoDB alapvető CRUD (Create, Read, Update, Delete) műveleteit mutatja be egy egyszerű, állatokat tartalmazó példán keresztül.
 
-Üdvözöllek a **Korszerű adatbázisok** kurzus hivatalos repository gyűjteményében! Ez az organizáció a félév során elkészített feladatokat, adatmodelleket és lekérdezéseket tartalmazza, különös tekintettel a NoSQL technológiákra.
+## Miről szól ez a labor?
 
-## Technológiai fókusz
+A példakód (mongosh.js) bemutatja, hogyan kezeljük az adatokat egy dokumentum-alapú adatbázisban. A középpontban Pajti (a kutya) és Chili (a macska) állnak.
 
-A kurzus során az alábbi rendszerek mélyebb megismerésére koncentrálunk:
+Bemutatott NoSQL koncepciók:
+* Sémamentesség: A kutyáknak és macskáknak eltérő mezőik lehetnek (pl. a kutyának van fajtája, a macskának nincs), a MongoDB mégis egy kollekcióban kezeli őket.
+* Beágyazott dokumentumok: Az egészségügyi adatok (health) nem külön táblában, hanem az állat profilján belül tárolódnak.
+* Tömbök kezelése: Egy állathoz több címkét (tags) is rendelhetünk egyetlen mezőben.
 
-*   **MongoDB**: Dokumentum-orientált tárolás, aggregációs folyamatok és dinamikus sémakezelés.
-*   **Neo4j**: Gráfalapú adatmodellezés és komplex kapcsolatok lekérdezése Cypher nyelven.
-*   **NoSQL elvek**: CAP tétel, horizontális skálázódás és sémamentes tervezés.
+## Futtatás folyamata
+1. Előkészületek
+Győződj meg róla, hogy fut a MongoDB szervered (helyileg vagy Dockerben).
 
-## Repository-k felépítése
+2. Futtatás MongoDB Compass-ban
+Nyisd meg a MongoDB Compass alkalmazást.
+Csatlakozz a szerverhez.
+Az ablak alján kattints a _ Mongosh terminálra.
+Másold be az animal-crud.js fájl tartalmát és nyomj Enter-t.
 
-Az organizáció az alábbi bontásban tartalmazza a projekteket:
+3. Futtatás parancssorból
+Ha telepítve van a mongosh a gépedre:
+bash
+mongosh "mongodb://localhost:27017" < animal-crud.js
+Körültekintően használja a kódot.
 
-| Projekt | Leírás | Technológia |
-| :--- | :--- | :--- |
-| `mongodb-labs` | Aggregációs pipeline-ok és CRUD műveletek | MongoDB (MQL) |
-| `graph-modeling` | Gráf adatbázis tervezés és Cypher lekérdezések | Neo4j |
-| `homework-assignments` | Heti házi feladatok és esettanulmányok | Vegyes |
-| `final-project` | A féléves nagyprojekt dokumentációja és kódja | Node.js / Python |
-
-## Eszközök és környezet
-
-A feladatok futtatásához az alábbiak szükségesek:
-- [MongoDB Compass](https://www.mongodb.com) (GUI)
-- [Neo4j Desktop](https://neo4j.com)
+## Tesztelési feladatok
+Próbáld ki a következőket a kódban:
+1. Módosítsd Pajti korát!
+2. Adj hozzá egy új állatot, akinek van egy teljesen egyedi mezője (pl. pikkely_szine).
+3. Keress rá az összes olyan állatra, akinek a címkéi között szerepel a "lusta" kifejezés.
 
 ---
-*Készült a 2025/26-os tanévben.*
+*Ez a modul a [Korszerű Adatbázisok] kurzus keretében készült.*
