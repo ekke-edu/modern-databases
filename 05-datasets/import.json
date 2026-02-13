@@ -1,0 +1,7 @@
+[
+  { "name": "Pajti", "species": "kutya", "breed": "golden retriever", "age": 3, "tags": ["barátságos"], "health": { "weight": 25 } },
+  { "name": "Chili", "species": "macska", "age": 2, "tags": ["lusta"], "health": { "weight": 4.5 } },
+  { "name": "Gombi", "species": "hörcsög", "age": 1, "tags": ["gyors"], "health": { "weight": 0.2 } },
+  { "name": "Zserbó", "species": "kutya", "breed": "mopsz", "age": 5, "tags": ["horkol"], "health": { "weight": 8.1 } },
+  { "name": "Mici", "species": "macska", "age": 7, "tags": ["vadorzó"], "health": { "weight": 3.9 } }
+]
