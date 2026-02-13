@@ -28,4 +28,5 @@ Próbáld ki a következőket a kódban:
 2. Új kapcsolat: Hozz létre egy Állatorvos csomópontot, és kösd össze Chilivel egy [:VISITED] kapcsolattal!
 3. Lekérdezés: Keress rá az összes olyan gazdira, akinek "kutya" típusú állata van!
 
-Ez a modul a [Korszerű Adatbázisok] kurzus keretében készült.
+---
+*Ez a modul a [Korszerű Adatbázisok] kurzus keretében készült.*
