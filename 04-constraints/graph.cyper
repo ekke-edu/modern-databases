@@ -1,0 +1,24 @@
+// 1. EGYEDISÉGI KÉNYSZER (Uniqueness Constraint)
+// Garantáljuk, hogy ne lehessen két gazdi ugyanazzal az email címmel.
+// Ez automatikusan létrehoz egy indexet is a háttérben.
+CREATE CONSTRAINT owner_email_unique IF NOT EXISTS
+FOR (p:Person) REQUIRE p.email IS UNIQUE;
+
+// 2. LÉTEZÉSI KÉNYSZER (Existence Constraint - Enterprise Edition funkció)
+// Garantálja, hogy minden állatnak kötelező legyen nevet adni.
+// CREATE CONSTRAINT animal_name_exists IF NOT EXISTS
+// FOR (a:Animal) REQUIRE a.name IS NOT NULL;
+
+// 3. INDEX LÉTREHOZÁSA (Range Index)
+// Gyorsítsuk fel a keresést az állatok fajtája és kora alapján.
+CREATE INDEX animal_species_age_idx IF NOT EXISTS
+FOR (a:Animal) ON (a.species, a.age);
+
+// 4. TELJES SZÖVEGES INDEX (Full-text Index)
+// Ha keresni akarunk az állatok leírásában vagy neveiben (pl. "Pajt" -> Pajti)
+CREATE FULLTEXT INDEX animal_search_idx IF NOT EXISTS
+FOR (n:Animal) ON EACH [n.name, n.breed];
+
+// 5. ELLENŐRZÉS
+SHOW CONSTRAINTS;
+SHOW INDEXES;
