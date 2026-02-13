@@ -1,0 +1,24 @@
+// 1. Adatbázis alaphelyzetbe állítása
+MATCH (n) DETACH DELETE n;
+
+// 2. Csomópontok létrehozása (Person, Animal, City)
+CREATE (janos:Person {name: "Kovács János", age: 45})
+CREATE (anna:Person {name: "Szabó Anna", age: 32})
+CREATE (pajti:Animal {name: "Pajti", species: "kutya"})
+CREATE (chili:Animal {name: "Chili", species: "macska"})
+CREATE (budapest:City {name: "Budapest"})
+CREATE (szeged:City {name: "Szeged"})
+
+// 3. Kapcsolatok létrehozása tulajdonságokkal
+// A kapcsolat iránya fontos: a Gazdi birtokolja az Állatot
+CREATE (janos)-[:OWNS {since: 2020, favorite: true}]->(pajti)
+CREATE (janos)-[:OWNS {since: 2022, favorite: false}]->(chili)
+CREATE (anna)-[:OWNS {since: 2023}]->(pajti) // Közös felügyelet példa
+
+// Lakhely kapcsolatok
+CREATE (janos)-[:LIVES_IN]->(budapest)
+CREATE (anna)-[:LIVES_IN]->(szeged)
+
+// 4. Lekérdezés: Ki hol lakik és milyen állata van?
+MATCH (p:Person)-[:LIVES_IN]->(c:City), (p)-[r:OWNS]->(a:Animal)
+RETURN p.name, c.name, r.since, a.name;
