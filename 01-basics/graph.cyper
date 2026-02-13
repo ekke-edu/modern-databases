@@ -1,0 +1,10 @@
+MATCH (n) DETACH DELETE n;
+
+CREATE (pajti:Animal {name: "Pajti", species: "kutya", breed: "golden retriever", age: 3})
+CREATE (chili:Animal {name: "Chili", species: "macska", age: 2})
+CREATE (gazdi:Person {name: "Kovács János", city: "Budapest"})
+
+CREATE (gazdi)-[:OWNS {since: 2022}]->(pajti)
+CREATE (gazdi)-[:OWNS {since: 2023}]->(chili)
+
+MATCH (n) RETURN n;
