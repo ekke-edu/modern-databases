@@ -1,0 +1,33 @@
+MATCH (n) DETACH DELETE n;
+
+CREATE (janos:Person {name: "Kovács János"}),
+       (anna:Person {name: "Szabó Anna"}),
+       (pajti:Animal {name: "Pajti", species: "kutya"}),
+       (chili:Animal {name: "Chili", species: "macska"}),
+       (dr_vau:Vet {name: "Dr. Vau", clinic: "Vahur Rendelő"}),
+       (dr_miau:Vet {name: "Dr. Miau", clinic: "Cirmos Klinika"});
+
+// Kapcsolatok láncolata
+CREATE (janos)-[:OWNS]->(pajti),
+       (janos)-[:OWNS]->(chili),
+       (anna)-[:OWNS]->(pajti),
+       (pajti)-[:VISITED {date: "2024-01-05"}]->(dr_vau),
+       (chili)-[:VISITED {date: "2024-02-10"}]->(dr_miau),
+       (chili)-[:VISITED {date: "2024-03-01"}]->(dr_vau);
+
+
+// A) Ki az az állatorvos, akihez János valamelyik állata járt? (2 ugrás)
+MATCH (p:Person {name: "Kovács János"})-[:OWNS]->(a:Animal)-[:VISITED]->(v:Vet)
+RETURN DISTINCT v.name, v.clinic;
+
+// B) "Közös nevező": Van-e olyan orvos, akihez János és Anna állata is járt?
+MATCH (janos:Person {name: "Kovács János"})-[:OWNS]->(a1:Animal)-[:VISITED]->(v:Vet),
+      (anna:Person {name: "Szabó Anna"})-[:OWNS]->(a2:Animal)-[:VISITED]->(v)
+RETURN v.name, a1.name AS JanosAllata, a2.name AS AnnaAllata;
+
+// C) Ajánlórendszer: Ki lakik még ott, ahol János, és ki az ő állatorvosa?
+// (Feltételezve, hogy a 02-modeling-ből megvannak a városok)
+MATCH (janos:Person {name: "Kovács János"})-[:LIVES_IN]->(c:City)<-[:LIVES_IN]-(szomszed:Person),
+      (szomszed)-[:OWNS]->(:Animal)-[:VISITED]->(v:Vet)
+WHERE janos <> szomszed
+RETURN DISTINCT v.name AS AjanlottOrvos;
