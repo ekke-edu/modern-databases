@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-crud-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "mocha --timeout 10000"
+  },
+  "keywords": [],
+  "author": "Szilvási István Péter",
+  "license": "ISC",
+  "description": "A simple Node.js application demonstrating CRUD operations with MongoDB for the ModernDB Course",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "chai-http": "^5.1.2",
+    "mocha": "^11.7.5",
+    "nodemon": "^3.1.14"
+  }
+}
