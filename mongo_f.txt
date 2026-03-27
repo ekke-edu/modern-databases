@@ -1,0 +1,71 @@
+******************************************
+Alapvető lekérdezések és szűrések
+******************************************
+
+Listázd az adatbázisban szereplő összes hallgatót!
+
+Keresd meg azt a hallgatót, akinek a Neptun-kódja ABC123!
+
+Listázd az összes hallgatót, aki a Mérnökinformatika szakon tanul!
+
+Keresd meg azokat a hallgatókat, akiknek az átlaga magasabb, mint 4.5!
+
+Szűrd le a másodéves (evfolyam: 2) Jogász szakos hallgatókat!
+
+Listázd azokat a hallgatókat, akik felvették az Analízis 1 nevű tárgyat!
+
+Jelenítsd meg az összes hallgatót névsorrendbe (A-Z) rendezve!
+
+Kérdezd le az összes hallgatót, de a listában csak a nev és a neptun_kod mezők szerepeljenek!
+
+Keress olyan hallgatókat, akiknek az átlaga 3.0 és 4.0 közé esik (határokat is beleértve)!
+
+Számold meg, összesen hány hallgató jár a Villamosmérnök szakra!
+
+******************************************
+Haladóbb műveletek, módosítások és törlés
+******************************************
+
+Listázd az összes hallgatót, aki nem elsőéves!
+
+Keress olyan hallgatókat, akik vagy Biológia, vagy Pszichológia szakra járnak!
+
+Keress rá azokra a hallgatókra, akiknek a nevében szerepel a Kovács családnév!
+
+Kérdezd le azt az egyetlen hallgatót, akinek a legmagasabb az átlaga az egész iskolában!
+
+Listázd azokat a hallgatókat, akiknek pontosan 3 tárgy van a tárgyfelvételi listájában!
+
+Módosítsd az ABC123 Neptun-kódú hallgató átlagát 4.5-re!
+
+Töröld az adatbázisból a BVC321 Neptun-kódú hallgató rekordját!
+
+Listázd a harmadévnél magasabb évfolyamra járók (>3) nevét és szakját (az azonosítót ne)!
+
+Keress olyan hallgatót, aki felvette a Programozás alapjai tárgyat, és az átlaga 4.0 alatt van!
+
+Növeld meg minden Mérnökinformatika szakos hallgató évfolyamát eggyel!
+
+******************************************
+Aggregációs és statisztikai feladatok
+******************************************
+
+Számold meg, hogy szakonként összesen hány hallgató van! ($group, $sum)
+
+Számold ki az egész egyetem átlagos tanulmányi átlagát! ($group, $avg)
+
+Határozd meg szakonként a hallgatók átlagos tanulmányi átlagát!
+
+Keresd meg minden szakon a legmagasabb (MAX) átlagot!
+
+Listázd ki az összes egyedi szaknevet, ami szerepel az adatbázisban! (distinct vagy $group)
+
+Csoportosítsd a hallgatókat évfolyamok szerint, és számold meg, hányan járnak az egyes évfolyamokra!
+
+Szűrd ki a 3.0 feletti átlaggal rendelkezőket, majd csoportosítsd őket szakok szerint, és mutasd meg a csoportok átlagát! ($match + $group)
+
+Bontsd szét a targyak tömböket elemeire, és számold meg, hányszor fordul elő az egyes tantárgyak felvétele az összes hallgatónál! ($unwind + $sortByCount)
+
+Keress rá a legnépszerűbb szakra (ahová a legtöbb hallgató jár)! ($group + $sort + $limit)
+
+Listázd ki a szakokat és a hozzájuk tartozó hallgatók névsorát egy-egy listában! ($group + $push)
