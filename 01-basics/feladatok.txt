@@ -1,0 +1,38 @@
+Alapvető lekérdezések és szűrések
+
+1.	Listázd az adatbázisban szereplő összes hallgatót!
+2.	Keresd meg azt a hallgatót, akinek a neve 'Kovács Adél'!
+3.	Listázd az összes hallgatót, aki a 'Gazdaságinformatika' szakon tanul!
+4.	Kérdezd le azokat a kurzusokat, amelyek 5 kreditesek!
+5.	Szűrd le a harmadéves (evfolyam: 3) Mérnökinformatikus hallgatókat!
+6.	Jelenítsd meg az összes oktatót névsorrendben (A-Z)!
+7.	Listázd ki az összes kurzust, de csak a 'cim' és a 'kredit' mezők jelenjenek meg!
+8.	Keress olyan hallgatókat, akiknek az életkora 20 és 22 év közé esik!
+9.	Keresd meg azokat az oktatókat, akiknek a neve 'Dr.' előtaggal kezdődik!
+10.	Számold meg, összesen hány hallgató jár az 'Állam- és Jogtudományi' szakra!
+
+Kapcsolatok és módosítások
+
+1.	Listázd azokat a hallgatókat, akik nem a 'Mérnökinformatika' szakra járnak!
+2.	Keress olyan kurzusokat, amelyek vagy 'Matematika', vagy 'Fizika' típusúak!
+3.	Keress rá azokra a hallgatókra, akiknek a nevében szerepel a 'Nagy' családnév!
+4.	Kérdezd le azt a kurzust, amely a legmagasabb kreditértékkel rendelkezik az egyetemen!
+5.	Listázd azokat a hallgatókat, akik felvették a 'Gráfelmélet' nevű tárgyat!
+6.	Módosítsd a 'Nagy Márk' nevű hallgató évfolyamát 2-esről 3-asra!
+7.	Töröld az adatbázisból a 'BVC321' Neptun-kódú hallgatót és minden kapcsolatát!
+8.	Listázd azokat az oktatókat, akik a 'Matematika Intézet' nevű tanszék tagjai!
+9.	Keress olyan hallgatót, aki felvette az 'Adatbázisok' tárgyat, és a jegye 4-esnél rosszabb!
+10.	Növeld meg minden 'Pszichológia' szakos hallgató korát eggyel!
+
+Aggregáció, statisztika és komplex utak
+
+1.	Számold meg, hogy évfolyamonként összesen hány hallgató van az egyetemen!
+2.	Számold ki az összes hallgató átlagéletkorát!
+3.	Határozd meg szakonként a hallgatók átlagos tanulmányi átlagát!
+4.	Keresd meg minden szakon a legmagasabb (MAX) elért osztályzatot!
+5.	Listázd ki az összes egyedi tantárgynevet, amit oktatnak az egyetemen!
+6.	Csoportosítsd az oktatókat tanszékek szerint, és számold meg, hány oktató van tanszékenként!
+7.	Szűrd ki a 4.0 feletti átlaggal rendelkezőket, majd mutasd meg szakonként a létszámukat!
+8.	Bontsd szét a hallgatók felvett tárgyait, és számold meg, melyik tárgyat hányszor vették fel összesen!
+9.	Keress rá a legnépszerűbb kurzusra (amelyet a legtöbb hallgató vett fel)!
+10.	Listázd ki a tanszékeket és a hozzájuk tartozó oktatók névsorát egy-egy listába gyűjtve!
