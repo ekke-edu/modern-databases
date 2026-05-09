@@ -1,0 +1,49 @@
+MATCH (n) DETACH DELETE n;
+
+CREATE (t1:Tanszek {nev: 'Matematika Intézet'})
+CREATE (t2:Tanszek {nev: 'Informatikai Intézet'})
+CREATE (t3:Tanszek {nev: 'Pszichológiai Intézet'})
+CREATE (t4:Tanszek {nev: 'Jogtudományi Kar'});
+
+CREATE (o1:Oktato {nev: 'Dr. Szabó Géza', beosztas: 'Egyetemi tanár'})
+CREATE (o2:Oktato {nev: 'Dr. Kovács Ilona', beosztas: 'Docens'})
+CREATE (o3:Oktato {nev: 'Dr. Kiss László', beosztas: 'Adjunktus'})
+CREATE (o4:Oktato {nev: 'Varga Péter', beosztas: 'Tanársegéd'});
+
+CREATE (k1:Kurzus {cim: 'Analízis 1', kredit: 5, tipus: 'Matematika'})
+CREATE (k2:Kurzus {cim: 'Fizika', kredit: 4, tipus: 'Fizika'})
+CREATE (k3:Kurzus {cim: 'Adatbázisok', kredit: 5, tipus: 'Informatika'})
+CREATE (k4:Kurzus {cim: 'Gráfelmélet', kredit: 3, tipus: 'Matematika'})
+CREATE (k5:Kurzus {cim: 'Programozás alapjai', kredit: 5, tipus: 'Informatika'});
+
+CREATE (h1:Hallgato {nev: 'Kovács Adél', neptun_kod: 'ABC123', szak: 'Gazdaságinformatika', evfolyam: 2, kor: 21, atlag: 4.6})
+CREATE (h2:Hallgato {nev: 'Nagy Márk', neptun_kod: 'XYZ789', szak: 'Mérnökinformatika', evfolyam: 2, kor: 22, atlag: 3.8})
+CREATE (h3:Hallgato {nev: 'Szabó Luca', neptun_kod: 'LMN456', szak: 'Mérnökinformatika', evfolyam: 3, kor: 23, atlag: 4.2})
+CREATE (h4:Hallgato {nev: 'Tóth Bence', neptun_kod: 'BVC321', szak: 'Jogász', evfolyam: 2, kor: 21, atlag: 3.5})
+CREATE (h5:Hallgato {nev: 'Kovács Péter', neptun_kod: 'KVP111', szak: 'Pszichológia', evfolyam: 1, kor: 19, atlag: 4.8})
+CREATE (h6:Hallgato {nev: 'Molnár Éva', neptun_kod: 'EVA999', szak: 'Állam- és Jogtudományi', evfolyam: 4, kor: 24, atlag: 4.9});
+
+CREATE (o1)-[:TAGJA]->(t1)
+CREATE (o2)-[:TAGJA]->(t1)
+CREATE (o3)-[:TAGJA]->(t2)
+CREATE (o4)-[:TAGJA]->(t2);
+
+CREATE (o1)-[:TANIT]->(k1)
+CREATE (o1)-[:TANIT]->(k4)
+CREATE (o2)-[:TANIT]->(k2)
+CREATE (o3)-[:TANIT]->(k3)
+CREATE (o4)-[:TANIT]->(k5);
+
+CREATE (h1)-[:FELVETTE {jegy: 5}]->(k1)
+CREATE (h1)-[:FELVETTE {jegy: 4}]->(k3)
+CREATE (h2)-[:FELVETTE {jegy: 3}]->(k3)
+CREATE (h2)-[:FELVETTE {jegy: 2}]->(k5)
+CREATE (h3)-[:FELVETTE {jegy: 5}]->(k3)
+CREATE (h3)-[:FELVETTE {jegy: 5}]->(k4)
+CREATE (h5)-[:FELVETTE {jegy: 5}]->(k1)
+CREATE (h6)-[:FELVETTE {jegy: 5}]->(k1);
+
+CREATE (h1)-[:ISMERI]->(h2)
+CREATE (h2)-[:ISMERI]->(h3)
+CREATE (h1)-[:ISMERI]->(h4)
+CREATE (h5)-[:ISMERI]->(h1);
