@@ -1,0 +1,3204 @@
+[{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637828"
+  },
+  "track_name": "SWIM",
+  "artist_name": "BTS",
+  "streams": 11273830,
+  "stream_change": -3370522,
+  "7day": 25918182,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 1,
+  "days": 2,
+  "viral_score": 37192012,
+  "trend": "Falling",
+  "popularity_category": "Trending",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637829"
+  },
+  "track_name": "Body to Body",
+  "artist_name": "BTS",
+  "streams": 6815694,
+  "stream_change": -4369341,
+  "7day": 18000729,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 2,
+  "days": 2,
+  "viral_score": 24816423,
+  "trend": "Falling",
+  "popularity_category": "Trending",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782a"
+  },
+  "track_name": "Babydoll",
+  "artist_name": "Dominic Fike",
+  "streams": 5733862,
+  "stream_change": 178968,
+  "7day": 36599831,
+  "genre": "Alternative Pop",
+  "country": "Florida",
+  "pos": 3,
+  "days": 119,
+  "viral_score": 42333693,
+  "trend": "Rising",
+  "popularity_category": "Trending",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782b"
+  },
+  "track_name": "Hooligan",
+  "artist_name": "BTS",
+  "streams": 5338608,
+  "stream_change": -3396855,
+  "7day": 14074071,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 4,
+  "days": 2,
+  "viral_score": 19412679,
+  "trend": "Falling",
+  "popularity_category": "Trending",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782c"
+  },
+  "track_name": "FYA",
+  "artist_name": "BTS",
+  "streams": 5196767,
+  "stream_change": -2873904,
+  "7day": 13267438,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 5,
+  "days": 2,
+  "viral_score": 18464205,
+  "trend": "Falling",
+  "popularity_category": "Trending",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782d"
+  },
+  "track_name": "NORMAL",
+  "artist_name": "BTS",
+  "streams": 4749288,
+  "stream_change": -2410388,
+  "7day": 11908964,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 6,
+  "days": 2,
+  "viral_score": 16658252,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782e"
+  },
+  "track_name": "Stateside + Zara Larsson (w/ Zara Larsson)",
+  "artist_name": "PinkPantheress",
+  "streams": 4738329,
+  "stream_change": -235112,
+  "7day": 34238168,
+  "genre": "Uk Garage",
+  "country": "England",
+  "pos": 7,
+  "days": 74,
+  "viral_score": 38976497,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963782f"
+  },
+  "track_name": "Aliens",
+  "artist_name": "BTS",
+  "streams": 4718569,
+  "stream_change": -3036604,
+  "7day": 12473742,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 8,
+  "days": 2,
+  "viral_score": 17192311,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637830"
+  },
+  "track_name": 2,
+  "artist_name": "BTS",
+  "streams": 4573989,
+  "stream_change": -2809104,
+  "7day": 11957082,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 9,
+  "days": 2,
+  "viral_score": 16531071,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637831"
+  },
+  "track_name": "Like Animals",
+  "artist_name": "BTS",
+  "streams": 4567309,
+  "stream_change": -2259887,
+  "7day": 11394505,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 10,
+  "days": 2,
+  "viral_score": 15961814,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637832"
+  },
+  "track_name": "Merry Go Round",
+  "artist_name": "BTS",
+  "streams": 4490039,
+  "stream_change": -2740868,
+  "7day": 11720946,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 11,
+  "days": 2,
+  "viral_score": 16210985,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637833"
+  },
+  "track_name": "they don’t know ’bout us",
+  "artist_name": "BTS",
+  "streams": 4423675,
+  "stream_change": -2305775,
+  "7day": 11153125,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 12,
+  "days": 2,
+  "viral_score": 15576800,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637834"
+  },
+  "track_name": "Man I Need",
+  "artist_name": "Olivia Dean",
+  "streams": 4300853,
+  "stream_change": -86237,
+  "7day": 28683798,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 13,
+  "days": 214,
+  "viral_score": 32984651,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637835"
+  },
+  "track_name": "DtMF",
+  "artist_name": "Bad Bunny",
+  "streams": 4274742,
+  "stream_change": -111657,
+  "7day": 29551375,
+  "genre": "Pop",
+  "country": "PR",
+  "pos": 14,
+  "days": 441,
+  "viral_score": 33826117,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637836"
+  },
+  "track_name": "End of Beginning",
+  "artist_name": "Djo",
+  "streams": 4108838,
+  "stream_change": 51706,
+  "7day": 27783861,
+  "genre": "Synth-Pop",
+  "country": "US",
+  "pos": 15,
+  "days": 764,
+  "viral_score": 31892699,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637837"
+  },
+  "track_name": "Risk It All",
+  "artist_name": "Bruno Mars",
+  "streams": 4007478,
+  "stream_change": -499146,
+  "7day": 31739152,
+  "genre": "Offizielle Charts",
+  "country": "US",
+  "pos": 16,
+  "days": 23,
+  "viral_score": 35746630,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637838"
+  },
+  "track_name": "One More Night",
+  "artist_name": "BTS",
+  "streams": 3979999,
+  "stream_change": -2153273,
+  "7day": 10113271,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 17,
+  "days": 2,
+  "viral_score": 14093270,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637839"
+  },
+  "track_name": "So Easy (To Fall In Love)",
+  "artist_name": "Olivia Dean",
+  "streams": 3932082,
+  "stream_change": 33687,
+  "7day": 27406397,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 18,
+  "days": 176,
+  "viral_score": 31338479,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783a"
+  },
+  "track_name": "Please",
+  "artist_name": "BTS",
+  "streams": 3897341,
+  "stream_change": -2024958,
+  "7day": 9819640,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 19,
+  "days": 2,
+  "viral_score": 13716981,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783b"
+  },
+  "track_name": "Raindance (w/ Tems)",
+  "artist_name": "Dave",
+  "streams": 3876044,
+  "stream_change": -197505,
+  "7day": 25945780,
+  "genre": "Rap",
+  "country": "US",
+  "pos": 20,
+  "days": 109,
+  "viral_score": 29821824,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783c"
+  },
+  "track_name": "No. 29",
+  "artist_name": "BTS",
+  "streams": 3769141,
+  "stream_change": -2733812,
+  "7day": 10272094,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 21,
+  "days": 2,
+  "viral_score": 14041235,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783d"
+  },
+  "track_name": "Into the Sun",
+  "artist_name": "BTS",
+  "streams": 3766459,
+  "stream_change": -1959266,
+  "7day": 9492184,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 22,
+  "days": 2,
+  "viral_score": 13258643,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783e"
+  },
+  "track_name": "The Fate of Ophelia",
+  "artist_name": "Taylor Swift",
+  "streams": 3721332,
+  "stream_change": -164240,
+  "7day": 26075129,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 23,
+  "days": 170,
+  "viral_score": 29796461,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963783f"
+  },
+  "track_name": "back to friends",
+  "artist_name": "sombr",
+  "streams": 3583316,
+  "stream_change": -131585,
+  "7day": 25787563,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 25,
+  "days": 369,
+  "viral_score": 29370879,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637840"
+  },
+  "track_name": "BAILE INoLVIDABLE",
+  "artist_name": "Bad Bunny",
+  "streams": 3344867,
+  "stream_change": -44475,
+  "7day": 22663387,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 26,
+  "days": 441,
+  "viral_score": 26008254,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637841"
+  },
+  "track_name": "Lush Life",
+  "artist_name": "Zara Larsson",
+  "streams": 3341957,
+  "stream_change": -21457,
+  "7day": 21857968,
+  "genre": "Pop",
+  "country": "SE",
+  "pos": 27,
+  "days": 761,
+  "viral_score": 25199925,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637842"
+  },
+  "track_name": "WHERE IS MY HUSBAND!",
+  "artist_name": "RAYE",
+  "streams": 3241010,
+  "stream_change": 5314,
+  "7day": 22068930,
+  "genre": "Pop",
+  "country": "GB",
+  "pos": 28,
+  "days": 184,
+  "viral_score": 25309940,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637843"
+  },
+  "track_name": "NUEVAYoL",
+  "artist_name": "Bad Bunny",
+  "streams": 3221298,
+  "stream_change": -80099,
+  "7day": 21951925,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 29,
+  "days": 441,
+  "viral_score": 25173223,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637844"
+  },
+  "track_name": "American Girls",
+  "artist_name": "Harry Styles",
+  "streams": 3101460,
+  "stream_change": -420059,
+  "7day": 24771218,
+  "genre": "Rock",
+  "country": "England",
+  "pos": 31,
+  "days": 16,
+  "viral_score": 27872678,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637845"
+  },
+  "track_name": "iloveitiloveitiloveit",
+  "artist_name": "Bella Kay",
+  "streams": 2978129,
+  "stream_change": -293545,
+  "7day": 22515039,
+  "genre": "Billboard Hot 100",
+  "country": "US",
+  "pos": 32,
+  "days": 30,
+  "viral_score": 25493168,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637846"
+  },
+  "track_name": "I Just Might",
+  "artist_name": "Bruno Mars",
+  "streams": 2860193,
+  "stream_change": -16107,
+  "7day": 19846361,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 33,
+  "days": 72,
+  "viral_score": 22706554,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637847"
+  },
+  "track_name": "Iris",
+  "artist_name": "The Goo Goo Dolls",
+  "streams": 2776320,
+  "stream_change": -126309,
+  "7day": 19907609,
+  "genre": "Alternative Rock",
+  "country": "US",
+  "pos": 34,
+  "days": 919,
+  "viral_score": 22683929,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637848"
+  },
+  "track_name": "Die With A Smile (w/ Bruno Mars)",
+  "artist_name": "Lady Gaga",
+  "streams": 2691880,
+  "stream_change": -142292,
+  "7day": 19325340,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 35,
+  "days": 583,
+  "viral_score": 22017220,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637849"
+  },
+  "track_name": "Manchild",
+  "artist_name": "Sabrina Carpenter",
+  "streams": 2649376,
+  "stream_change": -38989,
+  "7day": 17388953,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 36,
+  "days": 289,
+  "viral_score": 20038329,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784a"
+  },
+  "track_name": "Tití Me Preguntó",
+  "artist_name": "Bad Bunny",
+  "streams": 2649180,
+  "stream_change": -7253,
+  "7day": 17660827,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 37,
+  "days": 483,
+  "viral_score": 20310007,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784b"
+  },
+  "track_name": "Love Me Not",
+  "artist_name": "Ravyn Lenae",
+  "streams": 2547681,
+  "stream_change": -24120,
+  "7day": 17684406,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 38,
+  "days": 368,
+  "viral_score": 20232087,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784c"
+  },
+  "track_name": "EoO",
+  "artist_name": "Bad Bunny",
+  "streams": 2542905,
+  "stream_change": -123890,
+  "7day": 17968199,
+  "genre": "Billboard Hot 100",
+  "country": "PR",
+  "pos": 39,
+  "days": 437,
+  "viral_score": 20511104,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784d"
+  },
+  "track_name": "White Keys",
+  "artist_name": "Dominic Fike",
+  "streams": 2531236,
+  "stream_change": -178737,
+  "7day": 17360808,
+  "genre": "Offizielle Charts",
+  "country": "Florida",
+  "pos": 40,
+  "days": 28,
+  "viral_score": 19892044,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784e"
+  },
+  "track_name": "BIRDS OF A FEATHER",
+  "artist_name": "Billie Eilish",
+  "streams": 2529075,
+  "stream_change": 24180,
+  "7day": 17056445,
+  "genre": "Alternative Pop",
+  "country": "US",
+  "pos": 41,
+  "days": 674,
+  "viral_score": 19585520,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963784f"
+  },
+  "track_name": "Die On This Hill",
+  "artist_name": "SIENNA SPIRO",
+  "streams": 2398309,
+  "stream_change": -322885,
+  "7day": 19212395,
+  "genre": "Pop",
+  "country": "GB",
+  "pos": 43,
+  "days": 102,
+  "viral_score": 21610704,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637850"
+  },
+  "track_name": "Every Breath You Take",
+  "artist_name": "The Police",
+  "streams": 2367833,
+  "stream_change": 25446,
+  "7day": 16070168,
+  "genre": "New Wave",
+  "country": "GB",
+  "pos": 44,
+  "days": 1619,
+  "viral_score": 18438001,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637851"
+  },
+  "track_name": "Dracula - JENNIE Remix (w/ JENNIE)",
+  "artist_name": "Tame Impala",
+  "streams": 2332341,
+  "stream_change": -89323,
+  "7day": 15767565,
+  "genre": "Psychedelic Rock",
+  "country": "AU",
+  "pos": 45,
+  "days": 36,
+  "viral_score": 18099906,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637852"
+  },
+  "track_name": "12 to 12",
+  "artist_name": "sombr",
+  "streams": 2260402,
+  "stream_change": -86182,
+  "7day": 15853606,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 46,
+  "days": 236,
+  "viral_score": 18114008,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637853"
+  },
+  "track_name": "Mr. Brightside",
+  "artist_name": "The Killers",
+  "streams": 2220784,
+  "stream_change": -28156,
+  "7day": 14355698,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 47,
+  "days": 1682,
+  "viral_score": 16576482,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637854"
+  },
+  "track_name": "Espresso",
+  "artist_name": "Sabrina Carpenter",
+  "streams": 2213750,
+  "stream_change": 90339,
+  "7day": 13566149,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 48,
+  "days": 709,
+  "viral_score": 15779899,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637855"
+  },
+  "track_name": "Choosin' Texas",
+  "artist_name": "Ella Langley",
+  "streams": 2169091,
+  "stream_change": 10331,
+  "7day": 13900513,
+  "genre": "Country",
+  "country": "US",
+  "pos": 49,
+  "days": 80,
+  "viral_score": 16069604,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637856"
+  },
+  "track_name": "I Thought I Saw Your Face Today",
+  "artist_name": "She & Him",
+  "streams": 2155500,
+  "stream_change": -138406,
+  "7day": 15647967,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 50,
+  "days": 104,
+  "viral_score": 17803467,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637857"
+  },
+  "track_name": "(When You Gonna) Give It Up to Me (w/ Keyshia Cole)",
+  "artist_name": "Sean Paul",
+  "streams": 2154338,
+  "stream_change": -112939,
+  "7day": 14951009,
+  "genre": "Dancehall",
+  "country": "JM",
+  "pos": 51,
+  "days": 65,
+  "viral_score": 17105347,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637858"
+  },
+  "track_name": "Homewrecker",
+  "artist_name": "sombr",
+  "streams": 2139700,
+  "stream_change": -220893,
+  "7day": 15402927,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 52,
+  "days": 44,
+  "viral_score": 17542627,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637859"
+  },
+  "track_name": "Sailor Song",
+  "artist_name": "Gigi Perez",
+  "streams": 2107410,
+  "stream_change": -121996,
+  "7day": 16461691,
+  "genre": "Electronic",
+  "country": "IT",
+  "pos": 53,
+  "days": 581,
+  "viral_score": 18569101,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785a"
+  },
+  "track_name": "Beautiful Things",
+  "artist_name": "Benson Boone",
+  "streams": 2090231,
+  "stream_change": 129461,
+  "7day": 13021976,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 54,
+  "days": 793,
+  "viral_score": 15112207,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785b"
+  },
+  "track_name": "Sweater Weather",
+  "artist_name": "The Neighbourhood",
+  "streams": 2068795,
+  "stream_change": -177998,
+  "7day": 15845100,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 56,
+  "days": 2120,
+  "viral_score": 17913895,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785c"
+  },
+  "track_name": "One Dance (w/ Wizkid, Kyla)",
+  "artist_name": "Drake",
+  "streams": 2035423,
+  "stream_change": -105895,
+  "7day": 13481976,
+  "genre": "Hip Hop",
+  "country": "CA",
+  "pos": 57,
+  "days": 2135,
+  "viral_score": 15517399,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785d"
+  },
+  "track_name": "Rein Me In (w/ Olivia Dean)",
+  "artist_name": "Sam Fender",
+  "streams": 2020602,
+  "stream_change": -34643,
+  "7day": 12610414,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 58,
+  "days": 23,
+  "viral_score": 14631016,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785e"
+  },
+  "track_name": "Creep",
+  "artist_name": "Radiohead",
+  "streams": 2011657,
+  "stream_change": -91449,
+  "7day": 14176633,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 59,
+  "days": 842,
+  "viral_score": 16188290,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963785f"
+  },
+  "track_name": "Opalite",
+  "artist_name": "Taylor Swift",
+  "streams": 1992549,
+  "stream_change": -70008,
+  "7day": 14093798,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 60,
+  "days": 170,
+  "viral_score": 16086347,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637860"
+  },
+  "track_name": "FEVER DREAM",
+  "artist_name": "Alex Warren",
+  "streams": 1992250,
+  "stream_change": -130117,
+  "7day": 13935046,
+  "genre": "Offizielle Charts",
+  "country": "GB",
+  "pos": 61,
+  "days": 23,
+  "viral_score": 15927296,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637861"
+  },
+  "track_name": "dopamina (w/ Tito Double P)",
+  "artist_name": "Peso Pluma",
+  "streams": 1952764,
+  "stream_change": 66159,
+  "7day": 12629601,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 62,
+  "days": 86,
+  "viral_score": 14582365,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637862"
+  },
+  "track_name": "E85",
+  "artist_name": "Don Toliver",
+  "streams": 1948495,
+  "stream_change": -127853,
+  "7day": 13479304,
+  "genre": "Billboard Hot 100",
+  "country": "US",
+  "pos": 63,
+  "days": 51,
+  "viral_score": 15427799,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637863"
+  },
+  "track_name": "That's What I Like",
+  "artist_name": "Bruno Mars",
+  "streams": 1912383,
+  "stream_change": -142486,
+  "7day": 12699826,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 65,
+  "days": 1254,
+  "viral_score": 14612209,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637864"
+  },
+  "track_name": "Dracula",
+  "artist_name": "Tame Impala",
+  "streams": 1906471,
+  "stream_change": -84531,
+  "7day": 13354497,
+  "genre": "Dance-Pop",
+  "country": "AU",
+  "pos": 66,
+  "days": 138,
+  "viral_score": 15260968,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637865"
+  },
+  "track_name": "Dreams - 2004 Remaster",
+  "artist_name": "Fleetwood Mac",
+  "streams": 1894536,
+  "stream_change": 109844,
+  "7day": 11986886,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 67,
+  "days": 1004,
+  "viral_score": 13881422,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637866"
+  },
+  "track_name": "Gabriela",
+  "artist_name": "KATSEYE",
+  "streams": 1850006,
+  "stream_change": 60664,
+  "7day": 12468922,
+  "genre": "Girl Group",
+  "country": "US",
+  "pos": 68,
+  "days": 275,
+  "viral_score": 14318928,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637867"
+  },
+  "track_name": "Yellow",
+  "artist_name": "Coldplay",
+  "streams": 1828666,
+  "stream_change": -99526,
+  "7day": 12862160,
+  "genre": "Alternative Rock",
+  "country": "GB",
+  "pos": 69,
+  "days": 1909,
+  "viral_score": 14690826,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637868"
+  },
+  "track_name": "Locked out of Heaven",
+  "artist_name": "Bruno Mars",
+  "streams": 1827015,
+  "stream_change": -180903,
+  "7day": 13448378,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 70,
+  "days": 1548,
+  "viral_score": 15275393,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637869"
+  },
+  "track_name": "I Wanna Be Yours",
+  "artist_name": "Arctic Monkeys",
+  "streams": 1825413,
+  "stream_change": -80003,
+  "7day": 13563046,
+  "genre": "Indie Rock",
+  "country": "GB",
+  "pos": 71,
+  "days": 1354,
+  "viral_score": 15388459,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786a"
+  },
+  "track_name": "Who",
+  "artist_name": "Jimin",
+  "streams": 1807214,
+  "stream_change": 176731,
+  "7day": 11524586,
+  "genre": "Contemporary R&B",
+  "country": "KR",
+  "pos": 72,
+  "days": 611,
+  "viral_score": 13331800,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786b"
+  },
+  "track_name": "VOY A LLeVARTE PA PR",
+  "artist_name": "Bad Bunny",
+  "streams": 1780848,
+  "stream_change": -133648,
+  "7day": 12359622,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 74,
+  "days": 375,
+  "viral_score": 14140470,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786c"
+  },
+  "track_name": "daño (w/ Tito Double P)",
+  "artist_name": "Peso Pluma",
+  "streams": 1780764,
+  "stream_change": 34375,
+  "7day": 11510694,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 75,
+  "days": 86,
+  "viral_score": 13291458,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786d"
+  },
+  "track_name": "Starboy (w/ Daft Punk)",
+  "artist_name": "The Weeknd",
+  "streams": 1761445,
+  "stream_change": -119116,
+  "7day": 12541479,
+  "genre": "R&B",
+  "country": "CA",
+  "pos": 76,
+  "days": 2095,
+  "viral_score": 14302924,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786e"
+  },
+  "track_name": "Lose Control",
+  "artist_name": "Teddy Swims",
+  "streams": 1737868,
+  "stream_change": 29374,
+  "7day": 11380332,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 77,
+  "days": 856,
+  "viral_score": 13118200,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963786f"
+  },
+  "track_name": "Riptide",
+  "artist_name": "Vance Joy",
+  "streams": 1737857,
+  "stream_change": -5537,
+  "7day": 11544093,
+  "genre": "Rock",
+  "country": "AU",
+  "pos": 78,
+  "days": 2586,
+  "viral_score": 13281950,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637870"
+  },
+  "track_name": "WILDFLOWER",
+  "artist_name": "Billie Eilish",
+  "streams": 1730195,
+  "stream_change": -201850,
+  "7day": 13900491,
+  "genre": "Alternative Pop",
+  "country": "US",
+  "pos": 79,
+  "days": 674,
+  "viral_score": 15630686,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637871"
+  },
+  "track_name": "LA CANCIÓN (w/ Bad Bunny)",
+  "artist_name": "J Balvin",
+  "streams": 1708412,
+  "stream_change": 3072,
+  "7day": 11498926,
+  "genre": "Electronic",
+  "country": "CO",
+  "pos": 80,
+  "days": 988,
+  "viral_score": 13207338,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637872"
+  },
+  "track_name": "Qué Pasaría... (w/ Bad Bunny)",
+  "artist_name": "Rauw Alejandro",
+  "streams": 1674168,
+  "stream_change": 25719,
+  "7day": 11406360,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 82,
+  "days": 427,
+  "viral_score": 13080528,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637873"
+  },
+  "track_name": "Feel Good Inc",
+  "artist_name": "Gorillaz",
+  "streams": 1669648,
+  "stream_change": -99808,
+  "7day": 11921501,
+  "genre": "Electronic",
+  "country": "England",
+  "pos": 83,
+  "days": 443,
+  "viral_score": 13591149,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637874"
+  },
+  "track_name": "All The Stars (w/ SZA)",
+  "artist_name": "Kendrick Lamar",
+  "streams": 1665602,
+  "stream_change": -10997,
+  "7day": 11456499,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 84,
+  "days": 1016,
+  "viral_score": 13122101,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637875"
+  },
+  "track_name": "See You Again (w/ Kali Uchis)",
+  "artist_name": "Tyler, The Creator",
+  "streams": 1662229,
+  "stream_change": 73090,
+  "7day": 10586720,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 85,
+  "days": 1066,
+  "viral_score": 12248949,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637876"
+  },
+  "track_name": "In the End",
+  "artist_name": "Linkin Park",
+  "streams": 1647656,
+  "stream_change": -111701,
+  "7day": 11401354,
+  "genre": "Nu Metal",
+  "country": "US",
+  "pos": 86,
+  "days": 1012,
+  "viral_score": 13049010,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637877"
+  },
+  "track_name": "One Of The Girls (w/ JENNIE, Lily-Rose Depp)",
+  "artist_name": "The Weeknd",
+  "streams": 1643774,
+  "stream_change": -137154,
+  "7day": 12741548,
+  "genre": "R&B",
+  "country": "CA",
+  "pos": 87,
+  "days": 896,
+  "viral_score": 14385322,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637878"
+  },
+  "track_name": "Danza Kuduro (w/ Lucenzo)",
+  "artist_name": "Don Omar",
+  "streams": 1643700,
+  "stream_change": -105775,
+  "7day": 10737763,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 88,
+  "days": 802,
+  "viral_score": 12381463,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637879"
+  },
+  "track_name": "Aperture",
+  "artist_name": "Harry Styles",
+  "streams": 1643576,
+  "stream_change": -159524,
+  "7day": 13195579,
+  "genre": "Pop",
+  "country": "England",
+  "pos": 89,
+  "days": 58,
+  "viral_score": 14839155,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787a"
+  },
+  "track_name": "La Plena - W Sound 05 (w/ Beéle, Ovy On The Drums)",
+  "artist_name": "W Sound",
+  "streams": 1639753,
+  "stream_change": -17075,
+  "7day": 10668572,
+  "genre": "Falcom",
+  "country": "JP",
+  "pos": 90,
+  "days": 389,
+  "viral_score": 12308325,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787b"
+  },
+  "track_name": "LA VILLA (w/ Kapo, Gangsta)",
+  "artist_name": "Ryan Castro",
+  "streams": 1634806,
+  "stream_change": 64909,
+  "7day": 10801896,
+  "genre": "Rock",
+  "country": "US",
+  "pos": 91,
+  "days": 75,
+  "viral_score": 12436702,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787c"
+  },
+  "track_name": "Good Luck, Babe!",
+  "artist_name": "Chappell Roan",
+  "streams": 1621060,
+  "stream_change": 15852,
+  "7day": 10803226,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 92,
+  "days": 710,
+  "viral_score": 12424286,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787d"
+  },
+  "track_name": "Viva La Vida",
+  "artist_name": "Coldplay",
+  "streams": 1610233,
+  "stream_change": 106290,
+  "7day": 10117917,
+  "genre": "Alternative Rock",
+  "country": "GB",
+  "pos": 93,
+  "days": 1329,
+  "viral_score": 11728150,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787e"
+  },
+  "track_name": "As It Was",
+  "artist_name": "Harry Styles",
+  "streams": 1608775,
+  "stream_change": -150504,
+  "7day": 11660629,
+  "genre": "Pop",
+  "country": "England",
+  "pos": 94,
+  "days": 1401,
+  "viral_score": 13269404,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963787f"
+  },
+  "track_name": "We Are The People",
+  "artist_name": "Empire Of The Sun",
+  "streams": 1594097,
+  "stream_change": -30037,
+  "7day": 11149329,
+  "genre": "Electronic",
+  "country": "AU",
+  "pos": 95,
+  "days": 242,
+  "viral_score": 12743426,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637880"
+  },
+  "track_name": "The Less I Know The Better",
+  "artist_name": "Tame Impala",
+  "streams": 1593781,
+  "stream_change": -51333,
+  "7day": 10870662,
+  "genre": "Psychedelic Rock",
+  "country": "AU",
+  "pos": 96,
+  "days": 510,
+  "viral_score": 12464443,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637881"
+  },
+  "track_name": 505,
+  "artist_name": "Arctic Monkeys",
+  "streams": 1587695,
+  "stream_change": -113645,
+  "7day": 11653237,
+  "genre": "Indie Rock",
+  "country": "GB",
+  "pos": 97,
+  "days": 1537,
+  "viral_score": 13240932,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637882"
+  },
+  "track_name": "Seven (w/ Latto)",
+  "artist_name": "Jung Kook",
+  "streams": 1580746,
+  "stream_change": -80854,
+  "7day": 11202875,
+  "genre": "Pop",
+  "country": "KR",
+  "pos": 98,
+  "days": 981,
+  "viral_score": 12783621,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637883"
+  },
+  "track_name": "Marlboro Rojo",
+  "artist_name": "Fuerza Regida",
+  "streams": 1564019,
+  "stream_change": 112870,
+  "7day": 10014833,
+  "genre": "Billboard Hot 100",
+  "country": "MX",
+  "pos": 99,
+  "days": 317,
+  "viral_score": 11578852,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637884"
+  },
+  "track_name": "Todo Lo Fue",
+  "artist_name": "Lenin Ramírez",
+  "streams": 1563733,
+  "stream_change": 90601,
+  "7day": 10043908,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 100,
+  "days": 58,
+  "viral_score": 11607641,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637885"
+  },
+  "track_name": "The Visitor",
+  "artist_name": "SIENNA SPIRO",
+  "streams": 1558344,
+  "stream_change": -296012,
+  "7day": 12044907,
+  "genre": "Pop Soul",
+  "country": "GB",
+  "pos": 101,
+  "days": 9,
+  "viral_score": 13603251,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637886"
+  },
+  "track_name": "Billie Jean",
+  "artist_name": "Michael Jackson",
+  "streams": 1551069,
+  "stream_change": 20972,
+  "7day": 9991848,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 102,
+  "days": 363,
+  "viral_score": 11542917,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637887"
+  },
+  "track_name": "Si Antes Te Hubiera Conocido",
+  "artist_name": "KAROL G",
+  "streams": 1540953,
+  "stream_change": 46742,
+  "7day": 9623813,
+  "genre": "Reggaeton",
+  "country": "CO",
+  "pos": 103,
+  "days": 583,
+  "viral_score": 11164766,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637888"
+  },
+  "track_name": "Pvta Luna",
+  "artist_name": "Neton Vega",
+  "streams": 1537690,
+  "stream_change": 56324,
+  "7day": 10293259,
+  "genre": "Regional Mexicano",
+  "country": "Culiacán",
+  "pos": 104,
+  "days": 127,
+  "viral_score": 11830949,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637889"
+  },
+  "track_name": "Ya Borracho",
+  "artist_name": "Herencia De Grandes",
+  "streams": 1536251,
+  "stream_change": 49704,
+  "7day": 9999127,
+  "genre": "Regional Mexicano",
+  "country": "Monterrey",
+  "pos": 105,
+  "days": 122,
+  "viral_score": 11535378,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788a"
+  },
+  "track_name": "undressed",
+  "artist_name": "sombr",
+  "streams": 1535615,
+  "stream_change": -88400,
+  "7day": 10972970,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 106,
+  "days": 358,
+  "viral_score": 12508585,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788b"
+  },
+  "track_name": "Shape of You",
+  "artist_name": "Ed Sheeran",
+  "streams": 1532739,
+  "stream_change": -41473,
+  "7day": 10263688,
+  "genre": "Pop",
+  "country": "GB",
+  "pos": 107,
+  "days": 2815,
+  "viral_score": 11796427,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788c"
+  },
+  "track_name": "That’s So True",
+  "artist_name": "Gracie Abrams",
+  "streams": 1526228,
+  "stream_change": -51917,
+  "7day": 10719195,
+  "genre": "Folk Pop",
+  "country": "US",
+  "pos": 108,
+  "days": 519,
+  "viral_score": 12245423,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788d"
+  },
+  "track_name": "Midnight Sun",
+  "artist_name": "Zara Larsson",
+  "streams": 1512185,
+  "stream_change": -10911,
+  "7day": 10133254,
+  "genre": "Dance-Pop",
+  "country": "SE",
+  "pos": 109,
+  "days": 63,
+  "viral_score": 11645439,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788e"
+  },
+  "track_name": "When I Was Your Man",
+  "artist_name": "Bruno Mars",
+  "streams": 1508958,
+  "stream_change": 144568,
+  "7day": 10366342,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 110,
+  "days": 1476,
+  "viral_score": 11875300,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963788f"
+  },
+  "track_name": "Have You Ever Seen The Rain",
+  "artist_name": "Creedence Clearwater Revival",
+  "streams": 1507387,
+  "stream_change": 52997,
+  "7day": 9344647,
+  "genre": "Swamp Rock",
+  "country": "US",
+  "pos": 111,
+  "days": 484,
+  "viral_score": 10852034,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637890"
+  },
+  "track_name": "Sparks",
+  "artist_name": "Coldplay",
+  "streams": 1504857,
+  "stream_change": -3015,
+  "7day": 10932582,
+  "genre": "Alternative Rock",
+  "country": "GB",
+  "pos": 112,
+  "days": 562,
+  "viral_score": 12437439,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637891"
+  },
+  "track_name": "COQUETA (w/ Grupo Frontera)",
+  "artist_name": "Fuerza Regida",
+  "streams": 1503126,
+  "stream_change": 62199,
+  "7day": 9876432,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 113,
+  "days": 309,
+  "viral_score": 11379558,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637892"
+  },
+  "track_name": "Somewhere Only We Know",
+  "artist_name": "Keane",
+  "streams": 1496326,
+  "stream_change": 10006,
+  "7day": 10165562,
+  "genre": "Alternative Rock",
+  "country": "GB",
+  "pos": 114,
+  "days": 1193,
+  "viral_score": 11661888,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637893"
+  },
+  "track_name": "Taste Back",
+  "artist_name": "Harry Styles",
+  "streams": 1480809,
+  "stream_change": -206276,
+  "7day": 12746602,
+  "genre": "Rock",
+  "country": "England",
+  "pos": 115,
+  "days": 16,
+  "viral_score": 14227411,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637894"
+  },
+  "track_name": "Zoo (w/ Shakira)",
+  "artist_name": "Disney",
+  "streams": 1466813,
+  "stream_change": 189999,
+  "7day": 4001191,
+  "genre": "Special Purpose Artist",
+  "country": "US",
+  "pos": 116,
+  "days": 58,
+  "viral_score": 5468004,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637895"
+  },
+  "track_name": "Smells Like Teen Spirit - Remastered",
+  "artist_name": "Nirvana",
+  "streams": 1453513,
+  "stream_change": -125183,
+  "7day": 10271555,
+  "genre": "Grunge",
+  "country": "US",
+  "pos": 117,
+  "days": 727,
+  "viral_score": 11725068,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637896"
+  },
+  "track_name": "Blinding Lights",
+  "artist_name": "The Weeknd",
+  "streams": 1448450,
+  "stream_change": 11224,
+  "7day": 9729402,
+  "genre": "R&B",
+  "country": "CA",
+  "pos": 118,
+  "days": 2301,
+  "viral_score": 11177852,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637897"
+  },
+  "track_name": "7-3 (w/ Tito Double P)",
+  "artist_name": "Peso Pluma",
+  "streams": 1440677,
+  "stream_change": 5573,
+  "7day": 9736835,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 119,
+  "days": 86,
+  "viral_score": 11177512,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637898"
+  },
+  "track_name": "Porch Light",
+  "artist_name": "Noah Kahan",
+  "streams": 1430611,
+  "stream_change": -374516,
+  "7day": 12359863,
+  "genre": "Folk Pop",
+  "country": "US",
+  "pos": 120,
+  "days": 9,
+  "viral_score": 13790474,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce19637899"
+  },
+  "track_name": "Just the Way You Are",
+  "artist_name": "Bruno Mars",
+  "streams": 1423798,
+  "stream_change": -102703,
+  "7day": 10482326,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 121,
+  "days": 1197,
+  "viral_score": 11906124,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789a"
+  },
+  "track_name": "Coming Up Roses",
+  "artist_name": "Harry Styles",
+  "streams": 1418986,
+  "stream_change": -230104,
+  "7day": 12650537,
+  "genre": "Pop",
+  "country": "England",
+  "pos": 122,
+  "days": 16,
+  "viral_score": 14069523,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789b"
+  },
+  "track_name": "Nice To Each Other",
+  "artist_name": "Olivia Dean",
+  "streams": 1416007,
+  "stream_change": -50721,
+  "7day": 9872551,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 123,
+  "days": 212,
+  "viral_score": 11288558,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789c"
+  },
+  "track_name": "Counting Stars",
+  "artist_name": "OneRepublic",
+  "streams": 1414383,
+  "stream_change": -31879,
+  "7day": 9525522,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 124,
+  "days": 2495,
+  "viral_score": 10939905,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789d"
+  },
+  "track_name": "Fame is a Gun",
+  "artist_name": "Addison Rae",
+  "streams": 1404894,
+  "stream_change": -2613,
+  "7day": 10047427,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 125,
+  "days": 120,
+  "viral_score": 11452321,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789e"
+  },
+  "track_name": "Only Girl (In The World)",
+  "artist_name": "Rihanna",
+  "streams": 1398296,
+  "stream_change": -52230,
+  "7day": 9276305,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 126,
+  "days": 131,
+  "viral_score": 10674601,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce1963789f"
+  },
+  "track_name": "Bring Me To Life",
+  "artist_name": "Evanescence",
+  "streams": 1396427,
+  "stream_change": -131213,
+  "7day": 10205781,
+  "genre": "Rock",
+  "country": "US",
+  "pos": 127,
+  "days": 341,
+  "viral_score": 11602208,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a0"
+  },
+  "track_name": "Don't Stop The Music",
+  "artist_name": "Rihanna",
+  "streams": 1395227,
+  "stream_change": -40325,
+  "7day": 9282714,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 128,
+  "days": 117,
+  "viral_score": 10677941,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a1"
+  },
+  "track_name": "Timeless (w/ Playboi Carti)",
+  "artist_name": "The Weeknd",
+  "streams": 1392146,
+  "stream_change": -94943,
+  "7day": 10349253,
+  "genre": "R&B",
+  "country": "CA",
+  "pos": 129,
+  "days": 541,
+  "viral_score": 11741399,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a2"
+  },
+  "track_name": "Promiscuous (w/ Timbaland)",
+  "artist_name": "Nelly Furtado",
+  "streams": 1390532,
+  "stream_change": -5054,
+  "7day": 8860680,
+  "genre": "Pop",
+  "country": "CA",
+  "pos": 130,
+  "days": 171,
+  "viral_score": 10251212,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a3"
+  },
+  "track_name": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
+  "artist_name": "Pitbull",
+  "streams": 1389531,
+  "stream_change": -110927,
+  "7day": 9497950,
+  "genre": "Dance-Pop",
+  "country": "US",
+  "pos": 131,
+  "days": 511,
+  "viral_score": 10887481,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a4"
+  },
+  "track_name": "chiclona (w/ Tito Double P, LENCHO)",
+  "artist_name": "Peso Pluma",
+  "streams": 1389411,
+  "stream_change": -12742,
+  "7day": 9202643,
+  "genre": "Regional Mexicano",
+  "country": "MX",
+  "pos": 132,
+  "days": 21,
+  "viral_score": 10592054,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a5"
+  },
+  "track_name": "no tiene sentido",
+  "artist_name": "Beéle",
+  "streams": 1380148,
+  "stream_change": -55381,
+  "7day": 9480736,
+  "genre": "Latin",
+  "country": "CO",
+  "pos": 133,
+  "days": 287,
+  "viral_score": 10860884,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a6"
+  },
+  "track_name": "Kiss It Better",
+  "artist_name": "Rihanna",
+  "streams": 1379747,
+  "stream_change": -223043,
+  "7day": 10359276,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 134,
+  "days": 142,
+  "viral_score": 11739023,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a7"
+  },
+  "track_name": "Body",
+  "artist_name": "Don Toliver",
+  "streams": 1377373,
+  "stream_change": -100397,
+  "7day": 10001871,
+  "genre": "Billboard Hot 100",
+  "country": "US",
+  "pos": 135,
+  "days": 51,
+  "viral_score": 11379244,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a8"
+  },
+  "track_name": "The Night We Met",
+  "artist_name": "Lord Huron",
+  "streams": 1368186,
+  "stream_change": -94429,
+  "7day": 10515041,
+  "genre": "Indie Rock",
+  "country": "US",
+  "pos": 137,
+  "days": 1327,
+  "viral_score": 11883227,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378a9"
+  },
+  "track_name": "Sweet Child O' Mine",
+  "artist_name": "Guns N' Roses",
+  "streams": 1367839,
+  "stream_change": -13859,
+  "7day": 8983873,
+  "genre": "Hard Rock",
+  "country": "US",
+  "pos": 138,
+  "days": 440,
+  "viral_score": 10351712,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378aa"
+  },
+  "track_name": "Let Me Love You (w/ Justin Bieber)",
+  "artist_name": "DJ Snake",
+  "streams": 1364636,
+  "stream_change": -88823,
+  "7day": 10084292,
+  "genre": "Dance",
+  "country": "FR",
+  "pos": 139,
+  "days": 809,
+  "viral_score": 11448928,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ab"
+  },
+  "track_name": "Numb",
+  "artist_name": "Linkin Park",
+  "streams": 1350782,
+  "stream_change": -120313,
+  "7day": 9629438,
+  "genre": "Nu Metal",
+  "country": "US",
+  "pos": 140,
+  "days": 704,
+  "viral_score": 10980220,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ac"
+  },
+  "track_name": "Africa",
+  "artist_name": "TOTO",
+  "streams": 1350745,
+  "stream_change": -23426,
+  "7day": 7537107,
+  "genre": "Rock",
+  "country": "US",
+  "pos": 141,
+  "days": 753,
+  "viral_score": 8887852,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ad"
+  },
+  "track_name": "Who Knows",
+  "artist_name": "Daniel Caesar",
+  "streams": 1349819,
+  "stream_change": -151500,
+  "7day": 10486538,
+  "genre": "Toronto",
+  "country": "CA",
+  "pos": 142,
+  "days": 120,
+  "viral_score": 11836357,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ae"
+  },
+  "track_name": "The Man Who Can't Be Moved",
+  "artist_name": "The Script",
+  "streams": 1349075,
+  "stream_change": -126873,
+  "7day": 10424946,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 143,
+  "days": 157,
+  "viral_score": 11774021,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378af"
+  },
+  "track_name": "A Couple Minutes",
+  "artist_name": "Olivia Dean",
+  "streams": 1348112,
+  "stream_change": -57009,
+  "7day": 9770863,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 144,
+  "days": 118,
+  "viral_score": 11118975,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b0"
+  },
+  "track_name": "Everybody Wants To Rule The World",
+  "artist_name": "Tears For Fears",
+  "streams": 1345799,
+  "stream_change": 28946,
+  "7day": 6232525,
+  "genre": "New Wave",
+  "country": "GB",
+  "pos": 145,
+  "days": 1027,
+  "viral_score": 7578324,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b1"
+  },
+  "track_name": "No One Noticed",
+  "artist_name": "The Marías",
+  "streams": 1342468,
+  "stream_change": -53818,
+  "7day": 10132311,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 146,
+  "days": 496,
+  "viral_score": 11474779,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b2"
+  },
+  "track_name": "Without Me",
+  "artist_name": "Eminem",
+  "streams": 1335886,
+  "stream_change": -100932,
+  "7day": 9154300,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 147,
+  "days": 1637,
+  "viral_score": 10490186,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b3"
+  },
+  "track_name": "Hips Don't Lie (w/ Wyclef Jean)",
+  "artist_name": "Shakira",
+  "streams": 1330852,
+  "stream_change": 24927,
+  "7day": 6218904,
+  "genre": "Pop",
+  "country": "CO",
+  "pos": 148,
+  "days": 338,
+  "viral_score": 7549756,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b4"
+  },
+  "track_name": "Me Rehúso",
+  "artist_name": "Danny Ocean",
+  "streams": 1326162,
+  "stream_change": -38797,
+  "7day": 8914757,
+  "genre": "Soundtrack",
+  "country": "US",
+  "pos": 149,
+  "days": 617,
+  "viral_score": 10240919,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b5"
+  },
+  "track_name": "VeLDÁ (w/ Omar Courtz, Dei V)",
+  "artist_name": "Bad Bunny",
+  "streams": 1326149,
+  "stream_change": -90827,
+  "7day": 9468025,
+  "genre": "Reggaeton",
+  "country": "PR",
+  "pos": 150,
+  "days": 395,
+  "viral_score": 10794174,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b6"
+  },
+  "track_name": "Style",
+  "artist_name": "Taylor Swift",
+  "streams": 1311077,
+  "stream_change": -73973,
+  "7day": 8934698,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 152,
+  "days": 347,
+  "viral_score": 10245775,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b7"
+  },
+  "track_name": "Payphone (w/ Wiz Khalifa)",
+  "artist_name": "Maroon 5",
+  "streams": 1306200,
+  "stream_change": -28788,
+  "7day": 9226178,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 153,
+  "days": 712,
+  "viral_score": 10532378,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b8"
+  },
+  "track_name": "Please Please Please",
+  "artist_name": "Sabrina Carpenter",
+  "streams": 1296957,
+  "stream_change": -1727,
+  "7day": 5009467,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 154,
+  "days": 503,
+  "viral_score": 6306424,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378b9"
+  },
+  "track_name": "TU SANCHO",
+  "artist_name": "Fuerza Regida",
+  "streams": 1296297,
+  "stream_change": 19803,
+  "7day": 8708123,
+  "genre": "Billboard Hot 100",
+  "country": "MX",
+  "pos": 155,
+  "days": 284,
+  "viral_score": 10004420,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ba"
+  },
+  "track_name": "Shut up My Moms Calling",
+  "artist_name": "Hotel Ugly",
+  "streams": 1294677,
+  "stream_change": -8737,
+  "7day": 9158699,
+  "genre": "R&B",
+  "country": "US",
+  "pos": 156,
+  "days": 773,
+  "viral_score": 10453376,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378bb"
+  },
+  "track_name": "Ready, Steady, Go!",
+  "artist_name": "Harry Styles",
+  "streams": 1294001,
+  "stream_change": -190275,
+  "7day": 11338844,
+  "genre": "Pop",
+  "country": "England",
+  "pos": 157,
+  "days": 16,
+  "viral_score": 12632845,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378bc"
+  },
+  "track_name": "We Found Love (w/ Calvin Harris)",
+  "artist_name": "Rihanna",
+  "streams": 1292535,
+  "stream_change": -110188,
+  "7day": 7904030,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 158,
+  "days": 823,
+  "viral_score": 9196565,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378bd"
+  },
+  "track_name": "Sex on Fire",
+  "artist_name": "Kings of Leon",
+  "streams": 1290404,
+  "stream_change": 5746,
+  "7day": 3835428,
+  "genre": "Alternative Rock",
+  "country": "US",
+  "pos": 159,
+  "days": 63,
+  "viral_score": 5125832,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378be"
+  },
+  "track_name": "Wonderwall - Remastered",
+  "artist_name": "Oasis",
+  "streams": 1286520,
+  "stream_change": -64148,
+  "7day": 8821556,
+  "genre": "Britpop",
+  "country": "GB",
+  "pos": 160,
+  "days": 884,
+  "viral_score": 10108076,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378bf"
+  },
+  "track_name": "Too Sweet",
+  "artist_name": "Hozier",
+  "streams": 1283948,
+  "stream_change": 40456,
+  "7day": 6149401,
+  "genre": "Pop",
+  "country": "IE",
+  "pos": 161,
+  "days": 620,
+  "viral_score": 7433349,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c0"
+  },
+  "track_name": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
+  "artist_name": "Macklemore & Ryan Lewis",
+  "streams": 1282248,
+  "stream_change": -87604,
+  "7day": 8781747,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 163,
+  "days": 1211,
+  "viral_score": 10063995,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c1"
+  },
+  "track_name": "DAISIES",
+  "artist_name": "Justin Bieber",
+  "streams": 1281664,
+  "stream_change": -20169,
+  "7day": 8990092,
+  "genre": "Pop",
+  "country": "CA",
+  "pos": 164,
+  "days": 252,
+  "viral_score": 10271756,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c2"
+  },
+  "track_name": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
+  "artist_name": "Post Malone",
+  "streams": 1281251,
+  "stream_change": -6790,
+  "7day": 5025791,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 165,
+  "days": 2292,
+  "viral_score": 6307042,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c3"
+  },
+  "track_name": "Take on Me - 2015 Remaster",
+  "artist_name": "a-ha",
+  "streams": 1279646,
+  "stream_change": -21334,
+  "7day": 4937908,
+  "genre": "Pop",
+  "country": "NO",
+  "pos": 167,
+  "days": 14,
+  "viral_score": 6217554,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c4"
+  },
+  "track_name": "Can't Stop - 2014 Remaster",
+  "artist_name": "Red Hot Chili Peppers",
+  "streams": 1275766,
+  "stream_change": -114450,
+  "7day": 9103531,
+  "genre": "Alternative Rock",
+  "country": "US",
+  "pos": 169,
+  "days": 20,
+  "viral_score": 10379297,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c5"
+  },
+  "track_name": "Poker Face",
+  "artist_name": "Lady Gaga",
+  "streams": 1275472,
+  "stream_change": -64590,
+  "7day": 8736190,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 170,
+  "days": 389,
+  "viral_score": 10011662,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c6"
+  },
+  "track_name": "Cruel Summer",
+  "artist_name": "Taylor Swift",
+  "streams": 1268541,
+  "stream_change": 9198,
+  "7day": 2527884,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 172,
+  "days": 1014,
+  "viral_score": 3796425,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c7"
+  },
+  "track_name": "Boys Don't Cry",
+  "artist_name": "The Cure",
+  "streams": 1263767,
+  "stream_change": 15843,
+  "7day": 6006104,
+  "genre": "New Wave",
+  "country": "GB",
+  "pos": 173,
+  "days": 53,
+  "viral_score": 7269871,
+  "trend": "Rising",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c8"
+  },
+  "track_name": "luther",
+  "artist_name": "Kendrick Lamar",
+  "streams": 1260494,
+  "stream_change": -89450,
+  "7day": 9151667,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 175,
+  "days": 483,
+  "viral_score": 10412161,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378c9"
+  },
+  "track_name": "What You Saying",
+  "artist_name": "Lil Uzi Vert",
+  "streams": 1259173,
+  "stream_change": -27420,
+  "7day": 8754899,
+  "genre": "Rap",
+  "country": "US",
+  "pos": 176,
+  "days": 80,
+  "viral_score": 10014072,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ca"
+  },
+  "track_name": "S&M",
+  "artist_name": "Rihanna",
+  "streams": 1257351,
+  "stream_change": -87753,
+  "7day": 7352626,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 177,
+  "days": 30,
+  "viral_score": 8609977,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378cb"
+  },
+  "track_name": "No Pole",
+  "artist_name": "Don Toliver",
+  "streams": 1254541,
+  "stream_change": -53350,
+  "7day": 9273774,
+  "genre": "Billboard Hot 100",
+  "country": "US",
+  "pos": 178,
+  "days": 454,
+  "viral_score": 10528315,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378cc"
+  },
+  "track_name": "Last Friday Night (T.G.I.F.)",
+  "artist_name": "Katy Perry",
+  "streams": 1251765,
+  "stream_change": -19664,
+  "7day": 2523194,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 179,
+  "days": 99,
+  "viral_score": 3774959,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Stable Hit"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378cd"
+  },
+  "track_name": "Just Keep Watching (From F1® The Movie) (w/ F1 The Album)",
+  "artist_name": "Tate McRae",
+  "streams": 1245007,
+  "stream_change": -77995,
+  "7day": 9035434,
+  "genre": "Dolby Atmos",
+  "country": "CA",
+  "pos": 181,
+  "days": 270,
+  "viral_score": 10280441,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378ce"
+  },
+  "track_name": "Flashing Lights (w/ Dwele)",
+  "artist_name": "Kanye West",
+  "streams": 1241168,
+  "stream_change": -39451,
+  "7day": 8480893,
+  "genre": "Pop",
+  "country": "GB",
+  "pos": 185,
+  "days": 244,
+  "viral_score": 9722061,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378cf"
+  },
+  "track_name": "Gangsta's Paradise (w/ L.V.)",
+  "artist_name": "Coolio",
+  "streams": 1239884,
+  "stream_change": -37552,
+  "7day": 4891917,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 187,
+  "days": 791,
+  "viral_score": 6131801,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d0"
+  },
+  "track_name": "nuts (w/ rainy bear)",
+  "artist_name": "Lil Peep",
+  "streams": 1237223,
+  "stream_change": -11727,
+  "7day": 4787172,
+  "genre": "Hip Hop",
+  "country": "US",
+  "pos": 188,
+  "days": 5,
+  "viral_score": 6024395,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "New"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d1"
+  },
+  "track_name": "Perfect",
+  "artist_name": "Ed Sheeran",
+  "streams": 1227709,
+  "stream_change": -74196,
+  "7day": 8956978,
+  "genre": "Pop",
+  "country": "GB",
+  "pos": 190,
+  "days": 3070,
+  "viral_score": 10184687,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d2"
+  },
+  "track_name": "Summertime Sadness",
+  "artist_name": "Lana Del Rey",
+  "streams": 1227362,
+  "stream_change": -104470,
+  "7day": 7508206,
+  "genre": "Indie Pop",
+  "country": "US",
+  "pos": 191,
+  "days": 1093,
+  "viral_score": 8735568,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d3"
+  },
+  "track_name": "Come As You Are - Remastered",
+  "artist_name": "Nirvana",
+  "streams": 1224750,
+  "stream_change": -89453,
+  "7day": 6372663,
+  "genre": "Grunge",
+  "country": "US",
+  "pos": 192,
+  "days": 153,
+  "viral_score": 7597413,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d4"
+  },
+  "track_name": "Breakin' Dishes",
+  "artist_name": "Rihanna",
+  "streams": 1224675,
+  "stream_change": -24245,
+  "7day": 8638532,
+  "genre": "Pop",
+  "country": "US",
+  "pos": 193,
+  "days": 346,
+  "viral_score": 9863207,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d5"
+  },
+  "track_name": "The Chain - 2004 Remaster",
+  "artist_name": "Fleetwood Mac",
+  "streams": 1210598,
+  "stream_change": -79537,
+  "7day": 8817306,
+  "genre": "Rock",
+  "country": "GB",
+  "pos": 196,
+  "days": 205,
+  "viral_score": 10027904,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d6"
+  },
+  "track_name": "Love On The Brain",
+  "artist_name": "Rihanna",
+  "streams": 1203160,
+  "stream_change": -69820,
+  "7day": 7439269,
+  "genre": "Soul",
+  "country": "US",
+  "pos": 197,
+  "days": 352,
+  "viral_score": 8642429,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d7"
+  },
+  "track_name": "Sign of the Times",
+  "artist_name": "Harry Styles",
+  "streams": 1198929,
+  "stream_change": -121566,
+  "7day": 3816744,
+  "genre": "Pop",
+  "country": "England",
+  "pos": 198,
+  "days": 331,
+  "viral_score": 5015673,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d8"
+  },
+  "track_name": "Sorry",
+  "artist_name": "Justin Bieber",
+  "streams": 1192146,
+  "stream_change": -86760,
+  "7day": 7346804,
+  "genre": "Pop",
+  "country": "CA",
+  "pos": 199,
+  "days": 767,
+  "viral_score": 8538950,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+},
+{
+  "_id": {
+    "$oid": "69ce361d32a5a2ce196378d9"
+  },
+  "track_name": "Life Goes On",
+  "artist_name": "BTS",
+  "streams": 1191777,
+  "stream_change": -76127,
+  "7day": 8979038,
+  "genre": "K-Pop",
+  "country": "KR",
+  "pos": 200,
+  "days": 207,
+  "viral_score": 10170815,
+  "trend": "Falling",
+  "popularity_category": "Average",
+  "longevity": "Evergreen"
+}]
