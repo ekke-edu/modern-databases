@@ -1,0 +1,22 @@
+[
+  { "neptun_kod": "ABC123", "nev": "Kovács Adél", "szak": "Mérnökinformatika", "evfolyam": 2, "atlag": 4.2, "targyak": ["Analízis 1", "Adatbázisok", "Hálózatok"] },
+  { "neptun_kod": "XYZ789", "nev": "Nagy Barnabás", "szak": "Gazdálkodási és menedzsment", "evfolyam": 3, "atlag": 3.8, "targyak": ["Mikroökonómia", "Statisztika"] },
+  { "neptun_kod": "QWE456", "nev": "Tóth Csilla", "szak": "Pszichológia", "evfolyam": 1, "atlag": 4.9, "targyak": ["Bevezetés a pszichológiába", "Anatómia"] },
+  { "neptun_kod": "RTY159", "nev": "Kiss Dániel", "szak": "Mérnökinformatika", "evfolyam": 2, "atlag": 3.1, "targyak": ["Analízis 1", "Programozás alapjai"] },
+  { "neptun_kod": "UIO753", "nev": "Molnár Eszter", "szak": "Jogász", "evfolyam": 4, "atlag": 4.5, "targyak": ["Római jog", "Büntetőjog"] },
+  { "neptun_kod": "PAS951", "nev": "Farkas Ferenc", "szak": "Villamosmérnök", "evfolyam": 1, "atlag": 3.4, "targyak": ["Fizika 1", "Digitális technika"] },
+  { "neptun_kod": "DFG852", "nev": "Szabó Gergő", "szak": "Gazdálkodási és menedzsment", "evfolyam": 2, "atlag": 4.0, "targyak": ["Vállalati pénzügyek", "Marketing"] },
+  { "neptun_kod": "HJK321", "nev": "Horváth Hanna", "szak": "Mérnökinformatika", "evfolyam": 3, "atlag": 4.7, "targyak": ["Mesterséges intelligencia", "Szoftvertechnológia"] },
+  { "neptun_kod": "LZX654", "nev": "Varga Imre", "szak": "Biológia", "evfolyam": 1, "atlag": 3.9, "targyak": ["Genetika", "Kémia"] },
+  { "neptun_kod": "CVB987", "nev": "Papp Júlia", "szak": "Jogász", "evfolyam": 2, "atlag": 4.3, "targyak": ["Alkotmányjog", "Jogtörténet"] },
+  { "neptun_kod": "NMK147", "nev": "Balla Krisztián", "szak": "Villamosmérnök", "evfolyam": 3, "atlag": 2.9, "targyak": ["Szabályozástechnika", "Elektronika"] },
+  { "neptun_kod": "POI369", "nev": "Takács Laura", "szak": "Pszichológia", "evfolyam": 2, "atlag": 4.6, "targyak": ["Szociálpszichológia", "Fejlődéslélektan"] },
+  { "neptun_kod": "MLK258", "nev": "Simon Márk", "szak": "Mérnökinformatika", "evfolyam": 1, "atlag": 3.2, "targyak": ["Programozás alapjai", "Diszkrét matematika"] },
+  { "neptun_kod": "YTR741", "nev": "Fekete Nóra", "szak": "Gazdálkodási és menedzsment", "evfolyam": 3, "atlag": 4.1, "targyak": ["Menedzsment", "Számvitel"] },
+  { "neptun_kod": "REW852", "nev": "Orosz Olivér", "szak": "Biológia", "evfolyam": 2, "atlag": 3.7, "targyak": ["Állatrendszertan", "Biokémia"] },
+  { "neptun_kod": "DSF963", "nev": "Gál Petra", "szak": "Jogász", "evfolyam": 5, "atlag": 4.8, "targyak": ["Nemzetközi jog", "Záróvizsga felkészítő"] },
+  { "neptun_kod": "MNB159", "nev": "Szalai Roland", "szak": "Villamosmérnök", "evfolyam": 2, "atlag": 3.5, "targyak": ["Jelek és rendszerek", "Fizika 2"] },
+  { "neptun_kod": "KJH753", "nev": "Bodnár Sára", "szak": "Pszichológia", "evfolyam": 3, "atlag": 4.4, "targyak": ["Személyiségpszichológia", "Kutatásmódszertan"] },
+  { "neptun_kod": "BVC321", "nev": "Tamás Tamás", "szak": "Mérnökinformatika", "evfolyam": 4, "atlag": 3.3, "targyak": ["Szakdolgozat konzultáció", "Biztonságtechnika"] },
+  { "neptun_kod": "XSW456", "nev": "Vass Virág", "szak": "Biológia", "evfolyam": 3, "atlag": 4.1, "targyak": ["Növényélettan", "Ökológia"] }
+]
