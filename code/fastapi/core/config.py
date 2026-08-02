@@ -1,16 +1,15 @@
-from pydantic_settings import BaseSettings
-from dotenv import load_dotenv
-import os
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
-load_dotenv()
 
 class Settings(BaseSettings):
-    MONGO_CONNECTION_STRING: str = os.getenv("MONGO_CONNECTION_STRING")
-    DATABASE_NAME: str = os.getenv("DATABASE_NAME")
+    MONGO_CONNECTION_STRING: str
+    DATABASE_NAME: str
 
-    class Config:
-        env_file = ".env"
-        extra = "ignore"
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore"
+    )
 
 
 settings = Settings()
