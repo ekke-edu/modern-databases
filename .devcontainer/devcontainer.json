@@ -1,0 +1,13 @@
+{
+    "name": "MongoDB Scripting Env",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workspace",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mongodb.mongodb-vscode"
+            ]
+        }
+    }
+}
