@@ -6,7 +6,6 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      # A teljes projektmappát becsatoljuk a konténerbe
       - ../:/workspace:cached
     command: /bin/sh -c "while sleep 1000; do :; done"
     depends_on:
@@ -16,7 +15,6 @@ services:
     image: neo4j:latest
     restart: unless-stopped
     environment:
-      # A Neo4j alapértelmezett jelszavának legalább 8 karakternek kell lennie
       NEO4J_AUTH: neo4j/examplepassword
     ports:
       - "7474:7474" # Neo4j HTTP felület
