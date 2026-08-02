@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  app:
+    image: mcr.microsoft.com/devcontainers/python:1-3.11-bullseye
+    volumes:
+      - ../:/workspace:cached
+    # A devcontainer nyitva tartja a konténert
+    command: sleep infinity
+    depends_on:
+      - mongodb
+
+  mongodb:
+    image: mongo:7.0
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: examplepassword
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+
+volumes:
+  mongodb_data:

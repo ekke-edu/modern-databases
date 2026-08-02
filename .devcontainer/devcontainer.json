@@ -1,0 +1,31 @@
+{
+    "name": "Modern Databases Dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "22",
+            "pnpmVersion": "latest"
+        }
+    },
+    "settings": {
+        "python.terminal.useEnvFile": true
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "dbaeumer.vscode-eslint",
+                "mongodb.mongodb-vscode"
+            ]
+        }
+    },
+    "forwardPorts": [
+        8000,
+        3000,
+        27017
+    ],
+    "postCreateCommand": "pip install -r code/fastapi/requirement.txt && cd code/nodejs && pnpm install"
+}
