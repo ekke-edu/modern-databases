@@ -3,20 +3,37 @@
 
 ## Projekt Áttekintés
 
-Ez a könyvtár a Modern Adatbázis Tanfolyam Node.js implementációit tartalmazza.
+Ez a modul a projekt Node.js alapú szolgáltatását (frontend kiszolgáló / BFF) tartalmazza. A fejlesztési környezet egy Docker Compose alapú DevContainerben fut, amely tökéletes szinkront és izolációt biztosít a projekt FastAPI backendjével és a MongoDB adatbázissal.
 
 ## Csomagok
+A korábbi relációs adatbázis (PostgreSQL / Sequelize) és a lokális környezetiváltozó-kezelő (dotenv) helyett a projekt egy felhő-natívabb megközelítést alkalmaz:
 
-- `express` - Webes keretrendszer REST API-k létrehozásához
-- `sequelize` - ORM adatbázis műveletek elvégzéséhez
-- `postgresql` - PostgreSQL kliens
-- `dotenv` - Környezeti változók kezelése
+- `express` - Gyors és minimalista webes keretrendszer az útvonalak és kérések kezelésére.
+- `swagger-ui-express` - Az API dokumentáció (Swagger) integrálása és vizuális megjelenítése.
 
-## Használat
+> (A MongoDB műveletekhez szükség esetén natív driver vagy a FastAPI backend hívásai használatosak.)
+
+## Beállítás és Futtatás
+A projekt az npm helyett a modern és gyors pnpm csomagkezelőt használja. A DevContainer inicializálása során a függőségek telepítése (a postCreateCommand révén) automatikusan megtörténik.
+
+1. Környezeti változók kezelése:
+A konfigurációs adatok a projekt legkülső gyökerében elhelyezett, közös .env fájlból töltődnek be. Ezt a Docker Compose transzparens módon injektálja, így a Node.js kód közvetlenül a beépített process.env objektumon keresztül, extra csomagok (pl. dotenv) nélkül fér hozzájuk.
+
+> Példa .env-re: `MONGO_CONNECTION_STRING=mongodb://root:examplepassword@mongodb:27017/` `DATABASE_NAME=ekke`
+
+2. Függőségek manuális telepítése (ha szükséges):
+Ha a konténer futása közben új csomagot adsz hozzá, vagy újra kell húznod a mappát:
 
 ```bash
-npm install
-npm start
+cd code/nodejs
+pnpm install
+```
+
+3. Szerver indítása:
+```bash
+pnpm start
+# vagy közvetlenül:
+# node app.js
 ```
 
 ## Projekt Szerkezet
