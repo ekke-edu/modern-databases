@@ -18,8 +18,7 @@ Az organizáció az alábbi bontásban tartalmazza a projekteket:
 | :--- | :--- | :--- |
 | `mongodb-labs` | Aggregációs pipeline-ok és CRUD műveletek | MongoDB (MQL) |
 | `graph-modeling` | Gráf adatbázis tervezés és Cypher lekérdezések | Neo4j |
-| `homework-assignments` | Heti házi feladatok és esettanulmányok | Vegyes |
-| `final-project` | A féléves nagyprojekt dokumentációja és kódja | Node.js / Python |
+| `finals` | A féléves nagyprojekt dokumentációja és kódja | Node.js / Python |
 
 ## Eszközök és környezet
 
