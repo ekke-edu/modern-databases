@@ -12,12 +12,16 @@ const app = express();
 app.use(cors());
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
+app.get('/', (req, res) => {
+  res.redirect('/api-docs');
+});
+
 console.log(process.env.MONGO_CONNECTION_STRING);
 console.log(process.env.DATABASE_NAME);
 
-mongoose.connect(process.env.MONGO_CONNECTION_STRING, { family:4, dbName: process.env.DATABASE_NAME })
-        .then(() => console.log('Successfully connected to MongoDB.'))
-        .catch(err => console.error(`Connection error: ${err}`));
+mongoose.connect(process.env.MONGO_CONNECTION_STRING, { family: 4, dbName: process.env.DATABASE_NAME })
+  .then(() => console.log('Successfully connected to MongoDB.'))
+  .catch(err => console.error(`Connection error: ${err}`));
 
 mongoose.connection.once('open', () => {
   app.use(express.json());
