@@ -11,7 +11,8 @@ A példakód (create-animals.cypher) bemutatja, hogyan modellezzük az adatokat 
 
 ## Futtatás folyamata
 1. Előkészületek
-Győződj meg róla, hogy fut a Neo4j DBMS szervered (helyileg a Neo4j Desktopban vagy felhőben).
+Győződj meg róla, hogy fut a Neo4j DBMS szervered (helyileg a Neo4j Desktopban, felhőben, vagy Docker/Dev Container környezetben).
+Ha a projekt Docker vagy Dev Container segítségével fut, a Neo4j a konténerben érhető el, és a parancsokat a container termináljából is futtathatod.
 
 2. Futtatás Neo4j Browserben
 Nyisd meg a Neo4j Desktop-ot és indítsd el az adatbázist.
@@ -27,6 +28,6 @@ Próbáld ki a következőket a kódban:
 1. Módosítás: Írd át Pajti korát a SET parancs segítségével!
 2. Új kapcsolat: Hozz létre egy Állatorvos csomópontot, és kösd össze Chilivel egy [:VISITED] kapcsolattal!
 3. Lekérdezés: Keress rá az összes olyan gazdira, akinek "kutya" típusú állata van!
-
+> Teszteld parancssorból hogy működik-e a kapcsolat: `cypher-shell -a bolt://neo4j:7687 -u neo4j -p examplepassword`
 ---
 *Ez a modul a [Korszerű Adatbázisok] kurzus keretében készült.*

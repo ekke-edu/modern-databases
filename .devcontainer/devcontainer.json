@@ -1,0 +1,14 @@
+{
+    "name": "Database Scripting Env",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workspace",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mtxr.sqltools",
+                "mtxr.sqltools-driver-neo4j"
+            ]
+        }
+    }
+}
