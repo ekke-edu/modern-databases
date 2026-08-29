@@ -2,6 +2,8 @@
 
 Üdvözöllek a **Korszerű adatbázisok** kurzus hivatalos repository gyűjteményében! Ez az organizáció a félév során elkészített feladatokat, adatmodelleket és lekérdezéseket tartalmazza, különös tekintettel a NoSQL technológiákra. A többi branch-ben már elérhető a Dev Container konfiguráció, így a környezet gyorsan és egységesen beállítható.
 
+További információ [itt](https://io.uni-eszterhazy.hu/downloadCourseInfo/97176)
+
 ## Technológiai fókusz
 
 A kurzus során az alábbi rendszerek mélyebb megismerésére koncentrálunk:
