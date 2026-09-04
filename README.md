@@ -1,3 +1,6 @@
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)
+![DevContainers](https://img.shields.io/badge/DevContainers-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
 # Neo4j Alapok – Állatkert Gráf Projekt
 Ez a mappa a Neo4j alapvető Cypher lekérdezési műveleteit mutatja be egy egyszerű, állatokat és gazdáikat tartalmazó példán keresztül.
 
