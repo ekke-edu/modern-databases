@@ -20,7 +20,6 @@ Az organizáció az alábbi bontásban tartalmazza a projekteket:
 | :--- | :--- | :--- |
 | `feat/mongodb-labs` | Aggregációs pipeline-ok és CRUD műveletek | MongoDB (MQL) |
 | `feat/graph-modeling` | Gráf adatbázis tervezés és Cypher lekérdezések | Neo4j |
-| `finals` | A féléves nagyprojekt dokumentációja és kódja | Node.js / Python |
 
 ## Eszközök és környezet
 
@@ -28,6 +27,3 @@ A feladatok futtatásához az alábbi eszközök szükségesek, de a többi bran
 - [MongoDB Compass](https://www.mongodb.com) (GUI)
 - [Neo4j Desktop](https://neo4j.com)
 - Dev Container / VS Code (branch-ben ez már be van állítva)
-
----
-*Készült a 2025/26-os tanévben.*
