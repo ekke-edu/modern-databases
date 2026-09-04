@@ -1,3 +1,6 @@
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![DevContainers](https://img.shields.io/badge/DevContainers-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
 # MongoDB Alapok – Állatkert Projekt
 Ez a mappa a MongoDB alapvető CRUD műveleteit (Create, Read, Update, Delete) mutatja be egy egyszerű, állatokat tartalmazó példán keresztül.
 
