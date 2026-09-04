@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white)
+![DevContainers](https://img.shields.io/badge/DevContainers-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
 # Korszerű adatbázisok kurzus
 
 Üdvözöllek a **Korszerű adatbázisok** kurzus hivatalos repository gyűjteményében! Ez az organizáció a félév során elkészített feladatokat, adatmodelleket és lekérdezéseket tartalmazza, különös tekintettel a NoSQL technológiákra. A többi branch-ben már elérhető a Dev Container konfiguráció, így a környezet gyorsan és egységesen beállítható.
